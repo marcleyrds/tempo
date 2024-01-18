@@ -131,3 +131,14 @@ color: #0284c7;
 #wind_icon {
     color: #7c3aed;
 }
+
+#alert{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#alert img {
+    width: 200px;
+    margin-top: 20px;
+}
